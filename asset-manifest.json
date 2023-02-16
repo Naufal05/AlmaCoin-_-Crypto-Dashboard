@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/AlmaCoin-_-Crypto-dashboard/static/css/main.6998fada.css",
+    "main.js": "/AlmaCoin-_-Crypto-dashboard/static/js/main.7e2a4fab.js",
+    "static/js/787.30c80a2b.chunk.js": "/AlmaCoin-_-Crypto-dashboard/static/js/787.30c80a2b.chunk.js",
+    "index.html": "/AlmaCoin-_-Crypto-dashboard/index.html",
+    "static/media/pagination-arrow.svg": "/AlmaCoin-_-Crypto-dashboard/static/media/pagination-arrow.4a704deb13b35a43e546a281996247fb.svg",
+    "static/media/select-icon.svg": "/AlmaCoin-_-Crypto-dashboard/static/media/select-icon.4143ea05c64a0b071153acb947d2b3a8.svg",
+    "main.6998fada.css.map": "/AlmaCoin-_-Crypto-dashboard/static/css/main.6998fada.css.map",
+    "main.7e2a4fab.js.map": "/AlmaCoin-_-Crypto-dashboard/static/js/main.7e2a4fab.js.map",
+    "787.30c80a2b.chunk.js.map": "/AlmaCoin-_-Crypto-dashboard/static/js/787.30c80a2b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6998fada.css",
+    "static/js/main.7e2a4fab.js"
+  ]
+}
