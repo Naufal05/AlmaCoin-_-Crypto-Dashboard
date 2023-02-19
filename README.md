@@ -11,7 +11,6 @@
 
 <br/>
 
-
 <!-- TABLE OF CONTENTS -->
 <details>
     <summary>Content</summary>
@@ -25,25 +24,28 @@
 </details>
 
 <!-- Project Introduction -->
+
 ## **Introduction**
+
 <p>
     Cryptocurrency Dashboard is a web application that allows users to view cryptocurrency trends and their past price through graphical visualization.</p>
 <br />
-Visit <a href="https://cryptocurrency-dashhboard.vercel.app/">Cryptocurrency-dashboard</a> and discover cryptos, charts, and MarketCaps!
+Visit <a href="https://naufal05.github.io/AlmaCoin-_-Crypto-Dashboard/  ">AlmaCoin Crypto Dashboard </a> and discover cryptos, charts, and MarketCaps!
 
-![DashBoard home page](https://user-images.githubusercontent.com/63870995/210148826-04032249-b0a7-4958-8a53-d1a5953bab92.png)
+![DashBoard home page](./src/Homepage_screenshot.PNG)
 
 <br />
 <!-- FEATURES -->
 
 ## **FEATURES**
+
 - user can view data visuals through dynamic graphs
-- user can search cryptos 
+- user can search cryptos
 - user can sort cryptos
 - user can view Live previews of cryptos
 - user can view app on Fullscreen mode
 - user can choose Chart types
-- user can click on Duration buttons to view past prices and current prices of cryptos through graphs. 
+- user can click on Duration buttons to view past prices and current prices of cryptos through graphs.
 - Sidebar indicates profit/loss percentage on 24 hour basis
 - Crypto Exchange: allows users to convert different crypto currencies into other currencies
 - Responsive
@@ -56,27 +58,36 @@ Visit <a href="https://cryptocurrency-dashhboard.vercel.app/">Cryptocurrency-das
 ## **Technology/ Languages Used**
 
 - Tailwind CSS
+- Material UI
+-
 - Redux
 - Redux Thunk
 - ReactJS
 - ContextApi
 - Chartjs
 - CoinGeckoAPI
+- Test
+- JSdoc
 
 <br />
 <!-- HOW TO RUN LOCALLY -->
 
 ## **How to Run locally**
+
 - To run this project locally, use the following command in your CLI:
 
 ```bash
-  git clone https://github.com/pavandeveloperr/cryptocurrency-dashboard.git
+  git clone https://github.com/Naufal05/AlmaCoin-_-Crypto-Dashboard.git
+
 ```
+
 - Open your favorite code editor and run locally!
+
 ```bash
   npm install
   npm start
 ```
+
 - Go to browser and search localhost:3000
 
 <br />
@@ -85,9 +96,10 @@ Visit <a href="https://cryptocurrency-dashhboard.vercel.app/">Cryptocurrency-das
 ## **How to Contribute**
 
 Contributions and ideas to this library are more than welcome! <br />
-If you want to contribute or have ideas for this project, just fork the repo and create a PR. If you spot a bug, you are more than welcome to open an issue! Do ⭐ this project! 
+If you want to contribute or have ideas for this project, just fork the repo and create a PR. If you spot a bug, you are more than welcome to open an issue! Do ⭐ this project!
 
 ### Contribution Guidelines
+
 1. Fork the Project
 2. Creata a branch for your feature/ idea. Please do give a good name for the branch that tells about the feature.
 3. Stage your changes
@@ -101,5 +113,5 @@ If you want to contribute or have ideas for this project, just fork the repo and
   <p> This capstone project is associated with <a href="https://www.almabetter.com">Almabetter</a>.</p>
 
 ## DISCLAIMER
+
 <p> I don't own any of the logos or images used in the project all belongs to their respected owners. </p>
-  

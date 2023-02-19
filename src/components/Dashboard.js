@@ -15,7 +15,12 @@ import * as success from "../assets/1127-success.json";
 import ModeNightIcon from "@mui/icons-material/ModeNight";
 import AuthModal from "./Authentication/authModal";
 
-//Dashboard is the parent component
+/**
+ * Dashboard is the parent component, which contains all the
+ * child components ie Exchangecoins, Sidebar, Portfolio, Searchbar, fetchcoins for api.
+ * @param {} id Dashboard
+ * @returns {File}  Parent componenent
+ */
 function Dashboard() {
   const dispatch = useDispatch();
   const data = useSelector((state) => state.default);
@@ -23,6 +28,11 @@ function Dashboard() {
   const [completed, setCompleted] = useState(undefined);
   const [theme, setTheme] = useState("light");
 
+  /**
+   * Dark Mode on entire application
+   * @param {theme} id Dark mode
+   * @returns {theme} changees the state
+   */
   useEffect(() => {
     if (theme === "dark") {
       document.documentElement.classList.add("dark");
